@@ -57,3 +57,6 @@ ax2.set_ylabel("Tamaño del Mercado (USD millones)")
 ax2.set_title("Comparación de Tamaños de Mercado")
 plt.xticks(rotation=45)
 st.pyplot(fig2)
+pip install matplotlib
+pip show matplotlib
+streamlit run app.py
